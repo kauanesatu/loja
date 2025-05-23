@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+:root{
+  --marrom: #c08245f1;
+  --verde: #2f9364;
+  --orange: #ff7c37;
+  --degrade-bnt: linear-gradient(#fe9611, #ff5c00);
+  --color-p:#a1a1a1;
+  --color-2:#868585;
+}
+
+.background-marrom{
+    background: var(--marrom);
+}<
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+.poppins-medium [
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+]
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+:root{
+  --marrom: #c08245f1;
+  --verde: #2f9364;
+  --orange: #ff7c37;
+  --degrade-bnt: linear-gradient(#fe9611, #ff5c00);
+  --color-p:#a1a1a1;
+  --color-2:#868585;
+}
+
+.background-marrom{
+    background: var(--marrom);
+}
