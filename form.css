@@ -77,3 +77,12 @@ header{
 background: #fff;
 color:#e6e9ec;
 }
+
+.wrapper {
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255,.5);
+    border-radius: 20px;
+}
